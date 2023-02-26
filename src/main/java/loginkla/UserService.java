@@ -189,7 +189,11 @@ public class UserService {
 
     }
 
+<<<<<<< HEAD
 //deneeme232333
+=======
+//deneeme1234
+>>>>>>> 9de68a42ad8d85023241f85d3122466562ac6358
 
 
 }
